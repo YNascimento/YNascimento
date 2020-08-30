@@ -9,6 +9,7 @@
 
 ### :star: What I know
 
+| Skills | 
 | :------: | :-----: | :-----: |
 |<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">|<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">|<img alt="Bootstrap" title="Bootstrap" src="https://user-images.githubusercontent.com/59986562/88584028-709f2000-d027-11ea-9bf8-e9fd48a16ef2.png" height="24">
 |<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">|<img alt="Typescript" title="Typescript" src="https://user-images.githubusercontent.com/9818768/91670031-17c41b00-eaf0-11ea-8908-0437f3a94422.jpeg" height="24">|<img alt="Node.js" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">|
@@ -16,6 +17,7 @@
 
 ### :pencil: What I'm learning
 
+| Skills | 
 | :------: | :-----: | :-----: | :-----: | :-----: |
 |<img alt="React" title="React" src="https://user-images.githubusercontent.com/59986562/88585675-c1177d00-d029-11ea-9aae-812458cdd582.png" height="24">|<img alt="ReactNative" title="ReactNative" src="https://user-images.githubusercontent.com/9818768/91670281-49d67c80-eaf2-11ea-99e0-0aa8aa83e9de.jpg" height="24">|<img alt="Angular" title="Angular" src="https://user-images.githubusercontent.com/9818768/91670295-738fa380-eaf2-11ea-840d-30b62be893aa.png" height="24">|<img alt="MongoDB" title="MongoDB" src="https://user-images.githubusercontent.com/9818768/91669958-76d56000-eaef-11ea-9357-a90f1143741f.png" height="24">|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">
 
