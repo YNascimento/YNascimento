@@ -22,4 +22,5 @@
 |<img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/59986562/88583306-79432680-d026-11ea-867d-faa77a483554.png" height="24">|:large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:|
 |<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">|:large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:|
 
-<h4 align='right'>We are what we repeatedly do. Excellence, then, is not an act, but a habit. Will Durant</h4>
+<h4 align='right'>We are what we repeatedly do.</h4>
+<h4 align='right'>Excellence, then, is not an act, but a habit. Will Durant</h4>
