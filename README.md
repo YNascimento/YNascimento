@@ -9,7 +9,6 @@
 
 ### &nbsp;&nbsp;&nbsp;⚒ What do I Know
 
-<div align='center'>
 | Skills | Level | 
 | :------ | :-----: |
 |<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">|:large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:|
@@ -22,5 +21,5 @@
 |<img alt="MySQL" title="MySQL" src="https://user-images.githubusercontent.com/59986562/88585130-1010e280-d029-11ea-8a33-cb173b89dd9d.png" height="24">|:large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:|
 |<img alt="PostgreSQL" title="PostgreSQL" src="https://user-images.githubusercontent.com/59986562/88583306-79432680-d026-11ea-867d-faa77a483554.png" height="24">|:large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:|
 |<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">|:large_blue_circle: :white_circle: :white_circle: :white_circle: :white_circle:|
-</div>
+
 
