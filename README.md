@@ -9,6 +9,11 @@
 
 ### &nbsp;&nbsp;&nbsp;⚒ What do I Know
 
+|   Esquerda   |  Centralizado  |    Empty    |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
 <div>
 
 <div align='left'> &nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;:large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:
