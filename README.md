@@ -9,7 +9,7 @@
 
 ### ⚒&nbsp;&nbsp;&nbsp; What I Know
 
-<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:
+<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:
 
 <img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp; :large_blue_circle: :large_blue_circle: :large_blue_circle: :white_circle: :white_circle:
 
