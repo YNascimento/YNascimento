@@ -20,11 +20,13 @@
 |<img alt="React" title="React" src="https://user-images.githubusercontent.com/59986562/88585675-c1177d00-d029-11ea-9aae-812458cdd582.png" height="24">|<img alt="ReactNative" title="ReactNative" src="https://user-images.githubusercontent.com/9818768/91670281-49d67c80-eaf2-11ea-99e0-0aa8aa83e9de.jpg" height="24">|<img alt="Angular" title="Angular" src="https://user-images.githubusercontent.com/9818768/91670295-738fa380-eaf2-11ea-840d-30b62be893aa.png" height="24">|<img alt="MongoDB" title="MongoDB" src="https://user-images.githubusercontent.com/9818768/91670436-e2b9c780-eaf3-11ea-9417-884292bd0a20.jpg" height="24">|<img alt="AWS" title="AWS" src="https://user-images.githubusercontent.com/59986562/88596572-bb2a9780-d03b-11ea-9f1e-153881caca89.png" height="24">
 
 ### :book: Courses and Certificates
+
+[GitHub Pages](https://pages.github.com/).
 <p>
-  Udemy Certificate of 34.5 total hours of *[Curso Completo de Desnevolvimento Web - Crie 6 projetos online](https://www.udemy.com/course/curso-completo-do-desenvolvedor-web/)* online course on April 27, 2020. **COMPLETED**
+  Udemy Certificate of 34.5 total hours of *[Curso Completo de Desnevolvimento Web - Crie 6 projetos online](https://www.udemy.com/course/curso-completo-do-desenvolvedor-web/)* online course on April 27, 2020. __COMPLETED__
 </p>
 <p>
-  RocketSeat Launchbase Bootcamp Certificate. Covers intermediate knowledge Front-end and Back-end coding using HTML, CSS, JavaScript, TypeScript, NodeJS, Express, PostgreSQL, Nunjucks and Git. **ONGOING**
+  RocketSeat Launchbase Bootcamp Certificate. Covers intermediate knowledge Front-end and Back-end coding using HTML, CSS, JavaScript, TypeScript, NodeJS, Express, PostgreSQL, Nunjucks and Git. __ONGOING__
 </p>
 
 
