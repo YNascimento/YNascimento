@@ -21,13 +21,8 @@
 
 ### :book: Courses and Certificates
 
-[GitHub Pages](https://pages.github.com/).
-<p>
-  Udemy Certificate of 34.5 total hours of [Curso Completo de Desnevolvimento Web - Crie 6 projetos online](https://www.udemy.com/course/curso-completo-do-desenvolvedor-web/) online course on April 27, 2020. **COMPLETED**  **JavaScript, HTML, CSS, SQL**
-</p>
-<p>
-  [RocketSeat](http://rocketseat.com.br/) Launchbase Bootcamp Certificate. Covers intermediate knowledge Front-end and Back-end coding using HTML, CSS, JavaScript, TypeScript, NodeJS, Express, PostgreSQL, Nunjucks and Git. **ONGOING**
-</p>
+- Udemy Certificate of 34.5 total hours of [Curso Completo de Desnevolvimento Web - Crie 6 projetos online](https://www.udemy.com/course/curso-completo-do-desenvolvedor-web/) online course on April 27, 2020. **COMPLETED**
+- [RocketSeat](http://rocketseat.com.br/) Launchbase Bootcamp Certificate. Covers intermediate knowledge Front-end and Back-end coding using HTML, CSS, JavaScript, TypeScript, NodeJS, Express, PostgreSQL, Nunjucks and Git. **ONGOING**
 
 
 <h4 align='right'>We are what we repeatedly do.</h4>
