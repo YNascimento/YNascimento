@@ -1,7 +1,7 @@
 
 <h1> Hey! 👋 I'm Yuri</h1>
 
-<h3>Junior Full Stack Developer working to master the MERN and MEAN Stacks</h3>
+<h3>Senior Java Developer</h3>
 
 <p>
   <a href="https://www.linkedin.com/in/ynascimento/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
